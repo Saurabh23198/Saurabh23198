@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Saurabh23198/Saurabh23198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Saurabh Satpute 
+### Healthcare Transformation & Strategy Consultant
 
-Here are some ideas to get you started:
+As a consultant blending engineering precision with advanced business analytics, I help healthcare organizations, health-tech enterprises, and clinics optimize clinical workflows, deploy scalable data architectures, and automate compliance operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 **[Explore My Live Portfolio & Services](https://saurabh23198.github.io/Saurabh_Portfolio/)**
+
+---
+
+### 🛠️ Core Focus Areas
+* **Process Reengineering:** Applying Lean Six Sigma to eliminate administrative bottlenecks and cut operational overhead.
+* **AI & Compliance Infrastructure:** Implementing intelligent NLP and machine learning text classification systems for robust audit-readiness and automated risk governance.
+* **Enterprise Analytics Architecture:** Scaling data transformation models and executive analytics dashboards to track key performance metrics.
+
+### 🎓 Qualifications & Background
+* **MBA in Business Analytics** — Indian Institute of Management, Ranchi
+* **B.Tech (Minor in Entrepreneurship)** — Indian Institute of Technology, Hyderabad
