@@ -15,5 +15,5 @@ As a consultant blending engineering precision with advanced business analytics,
 * **Enterprise Analytics Architecture:** Scaling data transformation models and executive analytics dashboards to track key performance metrics.
 
 ### 🎓 Qualifications & Background
-* **MBA in Business Analytics** — Indian Institute of Management, Ranchi
-* **B.Tech (Minor in Entrepreneurship)** — Indian Institute of Technology, Hyderabad
+* **MBA in Business Analytics(Minor in Finance)** — Indian Institute of Management, Ranchi
+* **B.Tech Material Science (Minor in Entrepreneurship)** — Indian Institute of Technology, Hyderabad
