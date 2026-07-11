@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Saurabh Satpute 
+# I am Saurabh Satpute, 
 ### Healthcare Transformation & Strategy Consultant
 
 As a consultant blending engineering precision with advanced business analytics, I help healthcare organizations, health-tech enterprises, and clinics optimize clinical workflows, deploy scalable data architectures, and automate compliance operations.
